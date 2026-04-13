@@ -19,10 +19,10 @@ Route::get('/service/input', [ServiceController::class, 'create'])->name('servic
 
 // Route untuk halaman Login
 Route::get('/login', function () {
-    return view('auth.login'); // Pastikan kamu sudah buat file resources/views/auth/login.blade.php
+    return view('auth.login'); 
 })->name('login');
 
 // Route untuk halaman Register
 Route::get('/register', function () {
-    return view('auth.register'); // Pastikan kamu sudah buat file resources/views/auth/register.blade.php
+    return view('auth.register'); 
 })->name('register');

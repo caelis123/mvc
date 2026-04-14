@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elian Tech - Jasa Service Elektronik</title>
+    <title>TRK Tech - Jasa Service Elektronik</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -37,7 +37,7 @@
                 <div class="text-center w-1/3">
                     <a href="/" class="inline-block">
                         <img src="{{ asset('logo-web-service.png') }}" alt="Logo" class="h-16 mx-auto mb-2">
-                        <h1 class="text-xl font-bold tracking-[0.2em] uppercase text-slate-800">KKK Service</h1>
+                        <h1 class="text-xl font-bold tracking-[0.2em] uppercase text-slate-800">TRK Service</h1>
                     </a>
                 </div>
 

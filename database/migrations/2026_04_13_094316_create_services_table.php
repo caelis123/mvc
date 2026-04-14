@@ -10,12 +10,13 @@ return new class extends Migration
     {
         Schema::create('services', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('user_id')->nullable()->constrained()->onDelete('set null');
+            $table->string('no_resi')->unique();
             $table->string('nama_pelanggan');
-            $table->string('no_hp', 20);
-            $table->string('jenis_perangkat', 100);
+            $table->string('no_hp');
+            $table->string('jenis_perangkat');
             $table->text('keluhan');
-            $table->string('no_resi', 50)->unique();
-            $table->enum('status', ['masuk', 'proses', 'selesai'])->default('masuk');
+            $table->string('status')->default('masuk');
             $table->timestamps();
         });
     }

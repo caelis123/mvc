@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cek Resi - KKK Service</title>
+    <title>Cek Resi - TRK Service</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>body { font-family: 'Plus Jakarta Sans', sans-serif; }</style>
@@ -20,7 +20,7 @@
                     </div>
                 </div>
                 <div class="text-center w-1/3">
-                    <a href="/"><h1 class="text-xl font-bold tracking-[0.2em] uppercase text-slate-800">KKK Service</h1></a>
+                    <a href="/"><h1 class="text-xl font-bold tracking-[0.2em] uppercase text-slate-800">TRK Service</h1></a>
                 </div>
                 <nav class="flex justify-end space-x-6 w-1/3 text-xs font-bold uppercase tracking-widest text-gray-500">
                     <a href="/" class="hover:text-black">Home</a>
@@ -136,7 +136,7 @@
     </section>
 
     <footer class="border-t border-gray-100 py-8 text-center text-xs text-gray-400 uppercase tracking-widest">
-        &copy; {{ date('Y') }} KKK Service. All rights reserved.
+        &copy; {{ date('Y') }} TRK Service. All rights reserved.
     </footer>
 </body>
 </html>

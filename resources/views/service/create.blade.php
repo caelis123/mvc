@@ -142,7 +142,7 @@
 
     {{-- FOOTER --}}
     <footer class="border-t border-gray-100 py-8 text-center text-xs text-gray-400 uppercase tracking-widest">
-        &copy; {{ date('Y') }} KKK Service. All rights reserved.
+        &copy; {{ date('Y') }} TRK Service. All rights reserved.
     </footer>
 
 </body>

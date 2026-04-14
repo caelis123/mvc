@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard Admin - KKK Service</title>
+    <title>Dashboard Admin - TRK Service</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>body { font-family: 'Plus Jakarta Sans', sans-serif; }</style>
@@ -13,7 +13,7 @@
     {{-- NAVBAR --}}
     <header class="bg-black text-white py-4 px-8 flex justify-between items-center">
         <div class="flex items-center gap-4">
-            <h1 class="text-lg font-bold tracking-[0.2em] uppercase">KKK Service</h1>
+            <h1 class="text-lg font-bold tracking-[0.2em] uppercase">TRK Service</h1>
             <span class="bg-white text-black text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">Admin</span>
         </div>
         <div class="flex items-center gap-6">

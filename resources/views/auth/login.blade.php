@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - KKK Service</title>
+    <title>Login - TRK Service</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>body { font-family: 'Plus Jakarta Sans', sans-serif; }</style>
@@ -12,7 +12,7 @@
     <div class="w-full max-w-md">
 
         <div class="text-center mb-10">
-            <a href="/"><h1 class="text-2xl font-bold tracking-[0.2em] uppercase text-slate-800">KKK Service</h1></a>
+            <a href="/"><h1 class="text-2xl font-bold tracking-[0.2em] uppercase text-slate-800">TRK Service</h1></a>
             <p class="text-xs text-gray-400 tracking-widest uppercase mt-1">Jasa Service Elektronik</p>
         </div>
 

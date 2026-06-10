@@ -10,7 +10,7 @@
     body { font-family: 'Plus Jakarta Sans', sans-serif; }
     .hero-bg {
         background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-                    url('https://muriabisnis.com/uploads/Jual20240727-033452-jual-alat-peralatan-elektrik-elektronik-murah-terdekat-pati.webp');
+                    url('/bg-hero.jfif');
         background-size: cover;      
         background-position: center; 
         background-repeat: no-repeat;
